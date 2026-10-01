@@ -9,7 +9,6 @@ Right now, I'm focused on getting better at **C**, while also working with Pytho
 - 💻 Learning C and low-level programming concepts
 - 🐍 Python, HTML, CSS & JavaScript
 - 🌐 Web development and redesigning real-world websites
-- 🔐 Software security, reverse engineering & code auditing
 - 🛠️ Experimenting with developer tools and automation
 - 📚 Understanding how things work under the hood
 
